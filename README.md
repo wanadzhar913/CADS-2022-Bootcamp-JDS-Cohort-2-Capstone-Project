@@ -5,7 +5,9 @@ For the capstone, I was provided with information on customers' historical purch
 ## Objectives
 
 1. Design a **predictive model to determine potential customers that will make a purchase** if we send them advertisement. The target variable here is `Potential_Customer`. 
-2. The model will be **benchmarked against the default option where we simply send advertisements to everybody.** Given the cost of sending one advertisement (`c = 5`) and average purchase of MYR14.56, we'll need to see if the overall revenue of our model can exceed the default revenue of MYR 
+2. The model will then be **benchmarked against the default option where we simply send advertisements to everybody.** Given the cost of sending one advertisement (`c = 5`) and average purchase of MYR14.56, we'll need to see if the overall revenue of our model can exceed the default revenue of MYR1463.00.
+
+## Findings
 
 ## Machine Learning Algorithms Used
 
